@@ -17,10 +17,15 @@ Transfer learning has become one of the most common techniques that has achieved
 
 The verifiable links for the badges will be available in this section
 
-**Getting started with enterprise AI**
+**1. Getting started with enterprise AI**
 
 https://www.credly.com/badges/c7a84124-a900-4538-bbb0-825f0356843e/public_url
 
-**Journey to cloud: envisioning your solutions**
+**2. Journey to cloud: envisioning your solutions**
 
 https://www.credly.com/badges/5ccf4d3b-2946-458d-97c8-db26e7bb5146/public_url
+
+**3. Building Trustworthy AI Enterprise Solutions**
+
+https://www.credly.com/badges/d7e4e114-0d9b-4ce0-83b2-5965481b2eb4/public_url
+
